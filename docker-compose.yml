@@ -1,0 +1,6 @@
+version: '2'
+
+services: 
+ node-signal:
+  image: beinnova/node-signal
+
